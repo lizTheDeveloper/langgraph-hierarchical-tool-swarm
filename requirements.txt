@@ -31,7 +31,7 @@ jupyter_core==5.7.2
 kiwisolver==1.4.5
 langchain==0.1.12
 langchain-community==0.0.28
-langchain-core==0.1.31
+langchain-core==0.1.35
 langchain-experimental==0.0.54
 langchain-openai==0.0.8
 langchain-text-splitters==0.0.1
